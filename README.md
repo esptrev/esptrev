@@ -1,6 +1,10 @@
 ### Thank you for visiting my repository!
 ### If you're here you probably already know I'm Trevor Esparza
 
+<div align='center'>
+<a href="/gif/free-high-tech-background-CgK1O9" title="free High tech background"><img src="https://i.makeagif.com/media/4-30-2018/CgK1O9.gif" alt="free High tech background"></a><div style="font-size:11px;">make <a href="/" title="make a gif">action GIFs</a> like this at MakeaGif</div>
+</div>
+
 
 -  🔭 I’m currently working on improving my development skill set...
 -  🌱 I’m currently learning React.js...
