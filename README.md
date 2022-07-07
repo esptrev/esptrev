@@ -2,7 +2,7 @@
 ### If you're here you probably already know I'm Trevor Esparza
 
 <div align='center'>
- <img src="https://i.makeagif.com/media/4-30-2018/CgK1O9.gif" alt="free High tech background" width='600' height='300>
+ <a href="/gif/free-high-tech-background-CgK1O9" title="free High tech background"><img src="https://i.makeagif.com/media/4-30-2018/CgK1O9.gif" alt="free High tech background"></a>
 </div>
 
 
