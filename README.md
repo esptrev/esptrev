@@ -1,9 +1,12 @@
 ### Thank you for visiting my repository!
 ### If you're here you probably already know I'm Trevor Esparza
+
 ---
+
 <div align='center'>
  <a href="/gif/free-high-tech-background-CgK1O9"><img src="https://i.makeagif.com/media/4-30-2018/CgK1O9.gif" alt="free High tech background" width= '600' height= '300'></a>
 </div>
+
 ---
 
 -  🔭 I’m currently working on improving my development skill set...
@@ -11,11 +14,17 @@
 -  👯 I’m looking for an opportunity as a Software Developer-Engineer so I can build some awesome apps!...
 -  📫 How to reach me: trevoresparza30@gmail.com...
 -  ⚡ Fun fact: I love to fish, and build custom fishing rods in my spare time...
+
 ---
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=esptrev&theme=highcontrast&show_icons=true&count_private=true)
+
 ---
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=esptrev&layout=compact)
+
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
